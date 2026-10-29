@@ -22,8 +22,8 @@ US-08: As staff, I want to edit, delete a patient record, so that mistakes can b
 Should Have
 US-09: As staff, I want to see whether each reminder was sent or failed, so that i know who didn't get a message.
 US-10: As staff, I want to search for a patient by name or phone number, so that i can find them quickly
-US-11: As a patient, I want to replu HELP and have a person notified, so that someone follows up with me.
-US-12: As staff, I want to pick from approved message templelates, so that the wording is clear and safe.
+US-11: As a patient, I want to reply HELP and have a person notified, so that someone follows up with me.
+US-12: As staff, I want to pick from approved message templates, so that the wording is clear and safe.
 
 Could have (nice if time allows)
 US-13: As staff, I want a simple monthly summary of how many refills were on time, so that we can see whether the tool helps.
